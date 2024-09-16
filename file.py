@@ -4,6 +4,7 @@ def main():
 
     print("Hello, world!")
     print("This is some code for our standard solution.")
+    print("TEST TEST TEST TEST")
     print("Goodbye!")
 
 
