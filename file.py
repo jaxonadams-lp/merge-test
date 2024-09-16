@@ -11,6 +11,9 @@ def main():
     a = 5 + 7
     print(a)
 
+    # CUSTOM CODE HERE
+    a += 42
+
 
 if __name__ == "__main__":
     main()
