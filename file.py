@@ -11,6 +11,8 @@ def main():
     a = 5 + 7
     print(a)
 
+    print("THE ANSWER:", a)
+
 
 if __name__ == "__main__":
     main()
