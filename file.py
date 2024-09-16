@@ -13,6 +13,7 @@ def main():
 
     # CUSTOM CODE HERE
     a += 42
+    print("THE ANSWER:", a)
 
 
 if __name__ == "__main__":
