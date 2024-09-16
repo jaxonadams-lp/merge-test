@@ -1,4 +1,7 @@
 def main():
+
+    # some comments here
+
     print("Hello, world!")
     print("This is some code for our standard solution.")
     print("Goodbye!")
